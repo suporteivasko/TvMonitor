@@ -1,0 +1,14 @@
+.list-group{
+    border-style: none !important;
+}
+ul{
+    border: none !important;
+}
+.text-center{
+    font-size: 50px !important;
+    font-weight: bold;
+}
+.text{
+    font-size: 40px !important;
+    font-weight: bold;
+}

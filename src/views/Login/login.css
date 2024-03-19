@@ -1,0 +1,47 @@
+.card-login{
+    border: none;
+    margin-top:-180px;  
+    border: 1px solid #e96d08;
+    border-radius: 5px;
+   
+}
+.form-login {
+    padding: 15px;
+   
+    background-color: var(--bs-dark);    
+    border: 1px solid #e96d08;
+}
+
+.form-login input {
+    background-color: var(--bs-dark);
+    color: var(--bs-light);
+    border-color: 1px solid #e96d08 !important;
+
+}
+.form-control{
+    border-color: #e96d08;
+}
+.form-login input:focus {
+    background-color: var(--bs-dark);
+    color: var(--bs-light);
+    outline: none;
+}
+
+.btn-login{
+    background-color: #e96d08;
+    color: #fff;
+}
+
+.btn-login:hover{
+    background-color: #ea7f28;
+    color: #fff;
+}
+
+.btn-login:disabled{
+    background-color: #ea7f28;
+    color: #fff;
+}
+.btn-login:focus{
+    background-color: #ea7f28;
+    color: #fff;
+}

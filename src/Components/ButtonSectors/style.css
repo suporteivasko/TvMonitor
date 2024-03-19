@@ -1,0 +1,11 @@
+
+.btn-store{
+    background-color: #e96d08;
+    color: #fff;
+    padding: 20px;
+}
+
+.btn-store:hover{
+    background-color: #ea7f28;
+    color: #fff;
+}

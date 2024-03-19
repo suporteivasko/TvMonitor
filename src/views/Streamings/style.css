@@ -1,0 +1,13 @@
+.ratio {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16/9; /* Define a proporção 16:9 */
+}
+.streaming{
+    width: 100%;
+}
+.video {
+    width: 100% !important;
+    height: 100vh !important; /* 500% da altura da viewport (vh) */
+  }
+    
