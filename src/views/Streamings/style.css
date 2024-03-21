@@ -4,10 +4,12 @@
     aspect-ratio: 16/9; /* Define a proporção 16:9 */
 }
 .streaming{
-    width: 100%;
+    /*width: 100%;*/
+    height: 100% !important;
 }
 .video {
+    padding: 0px;
     width: 100% !important;
-    height: 100vh !important; /* 500% da altura da viewport (vh) */
-  }
+    height: 99.8vh !important;
     
+}
